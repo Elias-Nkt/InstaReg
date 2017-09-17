@@ -1,0 +1,24 @@
+﻿<Window x:Class="SeleniumInsta.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SeleniumInsta"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Button Content="Start" HorizontalAlignment="Left" Margin="83,197,0,0" VerticalAlignment="Top" Width="122" Height="49" Click="Button_Click"/>
+        <Button x:Name="btn2" Content="Exit" HorizontalAlignment="Left" Margin="403,270,0,0" VerticalAlignment="Top" Width="104" Height="39" Click="btn2_Click"/>
+        
+        <TextBox x:Name="emailorPhone" HorizontalAlignment="Left" Height="23" Margin="155,66,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="218"/>
+        <TextBox x:Name="nameandSurname" HorizontalAlignment="Left" Height="23" Margin="155,94,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="209" RenderTransformOrigin="0.625,2.57"/>
+        <TextBox x:Name="nickname" HorizontalAlignment="Left" Height="23" Margin="155,122,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="198"/>
+        <TextBox x:Name="password" HorizontalAlignment="Left" Height="23" Margin="155,150,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="187"/>
+        <Label Content="Email or Phone" HorizontalAlignment="Left" Margin="26,66,0,0" VerticalAlignment="Top" Width="113"/>
+        <Label Content="Name and Surname" HorizontalAlignment="Left" Margin="26,94,0,0" VerticalAlignment="Top" Width="113"/>
+        <Label Content="Nickname" HorizontalAlignment="Left" Margin="26,122,0,0" VerticalAlignment="Top" Width="113"/>
+        <Label Content="Password" HorizontalAlignment="Left" Margin="26,150,0,0" VerticalAlignment="Top" Width="113"/>
+
+
+    </Grid>
+</Window>

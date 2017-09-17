@@ -1,0 +1,14 @@
+c:\users\elias\documents\visual studio 2017\Projects\SeleniumInsta\SeleniumInsta\bin\Debug\SeleniumInsta.exe.config
+c:\users\elias\documents\visual studio 2017\Projects\SeleniumInsta\SeleniumInsta\bin\Debug\SeleniumInsta.exe
+c:\users\elias\documents\visual studio 2017\Projects\SeleniumInsta\SeleniumInsta\bin\Debug\SeleniumInsta.pdb
+c:\users\elias\documents\visual studio 2017\Projects\SeleniumInsta\SeleniumInsta\obj\Debug\SeleniumInsta.csprojResolveAssemblyReference.cache
+c:\users\elias\documents\visual studio 2017\Projects\SeleniumInsta\SeleniumInsta\obj\Debug\MainWindow.g.cs
+c:\users\elias\documents\visual studio 2017\Projects\SeleniumInsta\SeleniumInsta\obj\Debug\App.g.cs
+c:\users\elias\documents\visual studio 2017\Projects\SeleniumInsta\SeleniumInsta\obj\Debug\SeleniumInsta_MarkupCompile.cache
+c:\users\elias\documents\visual studio 2017\Projects\SeleniumInsta\SeleniumInsta\obj\Debug\SeleniumInsta_MarkupCompile.lref
+c:\users\elias\documents\visual studio 2017\Projects\SeleniumInsta\SeleniumInsta\obj\Debug\MainWindow.baml
+c:\users\elias\documents\visual studio 2017\Projects\SeleniumInsta\SeleniumInsta\obj\Debug\SeleniumInsta.g.resources
+c:\users\elias\documents\visual studio 2017\Projects\SeleniumInsta\SeleniumInsta\obj\Debug\SeleniumInsta.Properties.Resources.resources
+c:\users\elias\documents\visual studio 2017\Projects\SeleniumInsta\SeleniumInsta\obj\Debug\SeleniumInsta.csproj.GenerateResource.Cache
+c:\users\elias\documents\visual studio 2017\Projects\SeleniumInsta\SeleniumInsta\obj\Debug\SeleniumInsta.exe
+c:\users\elias\documents\visual studio 2017\Projects\SeleniumInsta\SeleniumInsta\obj\Debug\SeleniumInsta.pdb
